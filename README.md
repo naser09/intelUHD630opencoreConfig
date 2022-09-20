@@ -1,0 +1,1 @@
+# intelUHD630opencoreConfig
